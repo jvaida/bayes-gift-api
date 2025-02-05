@@ -1,0 +1,73 @@
+{
+    "sessionID": "LAPTOP-QMH98QRG:Session/1:26756",
+    "scenarioEvent": "Timer",
+    "timestamp": "20250101_103503",
+    "casualties": [
+      {
+        "id": "casualty_1",
+        "status":"1000"
+      },
+      {
+        "id": "casualty_2",
+        "status":"0010"
+      },
+      {
+        "id": "casualty_3",
+        "status": "3111"
+      }
+    ],
+    "trainees": [
+      {
+        "id": "2ea30101-0a61-fbe8-e3a4-f246000001c1",
+        "VisualActivity": {
+          "AOI_Watched": [],
+          "OOI_Watched": [],
+          "ROI_Watched": []
+        },
+        "Movement": {
+          "headRotation": "(0.00510,309.81690,-0.00422)",
+          "Head": "(-1.39252,1.62989,-0.70617)",
+          "LeftHand": "(-1.50386,0.95455,-0.97709)",
+          "RightHand": "(-1.43827,0.95459,-0.43335)",
+          "LeftFoot": "(-1.37371,0.32967,-0.87239)",
+          "RightFoot": "(-1.22498,0.13391,-0.69550)"
+        },
+        "Communication": false
+      },
+      {
+        "id": "aaab0101-42d1-3443-e3a4-b5e0000001c1",
+        "VisualActivity": {
+          "AOI_Watched": [],
+          "OOI_Watched": [],
+          "ROI_Watched": []
+        },
+        "Movement": {
+          "headRotation": "(0.00096,336.86260,0.00742)",
+          "Head": "(0.00363,1.62989,-0.70904)",
+          "LeftHand": "(-0.22903,0.95452,-0.88358)",
+          "RightHand": "(0.10480,0.95467,-0.45177)",
+          "LeftFoot": "(-0.05501,0.32963,-0.86543)",
+          "RightFoot": "(0.15787,0.13395,-0.77551)"
+        },
+        "Communication": false
+      },
+      {
+        "id": "b3c40101-12d4-1234-e3a4-c1e0000001c3",
+        "VisualActivity": {
+          "AOI_Watched": [],
+          "OOI_Watched": [],
+          "ROI_Watched": []
+        },
+        "Movement": {
+          "headRotation": "(0.01010,300.51690,-0.00522)",
+          "Head": "(-1.10252,1.42989,-0.90617)",
+          "LeftHand": "(-1.00386,0.85455,-0.57709)",
+          "RightHand": "(-1.23827,0.75459,-0.53335)",
+          "LeftFoot": "(-1.17371,0.22967,-0.47239)",
+          "RightFoot": "(-1.02498,0.03391,-0.39550)"
+        },
+        "Communication": false
+      }
+    ]
+  }
+  

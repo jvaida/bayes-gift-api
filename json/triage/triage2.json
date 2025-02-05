@@ -1,0 +1,18 @@
+{
+    "sessionID": "LAPTOP-QMH98QRG:Session/1:26756",
+    "scenarioEvent": "Triage",
+    "timestamp": "20250101_103503",
+    "trainee_id": "2ea30101-0a61-fbe8-e3a4-f246000001c1",
+    "casualty_id": "casualty_2",
+    "subtype_id": "triage_2",
+    "actionsPerformed": {
+      "exitWoundIdentified": true,
+      "airwayObstructionIdentified": false,
+      "shockIdentified": true,
+      "hypothermiaIdentified": false,
+      "bleedingIdentified": true,
+      "respiratoryDistressIdentified": true,
+      "severePainIdentified": false,
+      "woundAreaIdentified": true
+    }
+}
