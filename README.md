@@ -11,5 +11,5 @@ javac -d ../out -cp ../lib *.java
 2) To run: (Go to root of repository)
 ```bash
 cd ../
-java -cp lib:out JsonApi
+java -cp lib:out Main
 ```
