@@ -13,3 +13,5 @@ javac -d ../out -cp ../lib *.java
 cd ../
 java -cp lib:out Main
 ```
+
+Bayes/ - is the folder(in .zip) to be given to the client. Not to be added on github.

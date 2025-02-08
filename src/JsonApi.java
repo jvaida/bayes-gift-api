@@ -1,10 +1,10 @@
 import org.json.JSONObject;
 import org.json.JSONArray;
-public class Main {
-    public static void main(String[] args) {
+public class JsonApi {
+    public static JSONArray getJson() {
         JsonService service = JsonServiceFactory.getJsonService();
         JSONArray jsonData = service.getJsonData();
         
-        System.out.println(jsonData.toString(4));
+        return jsonData;
     }
 }

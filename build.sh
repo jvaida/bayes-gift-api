@@ -17,6 +17,6 @@ cd ../
 cp -r lib/* Fat/
 cp out/* Fat/
 
-jar cvfm validator.jar Fat/META-INF/MANIFEST.MF -C Fat .
+jar cvfm json.jar Fat/META-INF/MANIFEST.MF -C Fat .
 
 echo "Build successful!"

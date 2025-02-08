@@ -6,7 +6,7 @@ if ! [ -x "$(command -v java)" ]; then
 fi
 
 # Give necessary permissions to the .jar
-chmod +r ./validator.jar
+chmod +r ./json.jar
 
 # Run the validator.jar file
-java -jar validator.jar
+java -jar json.jar
